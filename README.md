@@ -29,7 +29,7 @@ Este proyecto tiene como objetivo desarrollar un proyecto que utilice shaders
 
 ## Gif resultado
 
-![](turtlesGif.gif)
+![](TurtlesGif.gif)
 
 ## Base
 
